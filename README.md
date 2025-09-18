@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Im curently working on Frontend Development<br>🌱Im curently learning Node js
+🔭Im curently working as Full-Stack Developer <br>🌱Im curently learning PHP
 
 
 ## 🌐 Socials:
